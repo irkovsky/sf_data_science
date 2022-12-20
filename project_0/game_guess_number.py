@@ -2,7 +2,11 @@
 
 import numpy as np
 
-number = np.random.randint(1,101) 
+def take_number() -> int:
+    number = np.random.randint(1,101) 
+    return number    
+    
+number = take_number()
 print(f'Компьютер загадал число: {number}')
 
 

@@ -85,7 +85,9 @@
 
 3. Написание необходимой документации.
 
-4. Публикация проекта на GitHub.
+4. Фиксация версий библиотек через команду pip freeze.
+
+5. Публикация проекта на GitHub.
 
 :arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/blob/main/project_0/README.md#оглавление)
 
