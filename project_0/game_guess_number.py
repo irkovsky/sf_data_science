@@ -76,3 +76,4 @@ def average_result(guess_number) -> int:
 
 
 print(f'Алгоритм угадывает число в среднем за {average_result(guess_number)} попыток')
+
