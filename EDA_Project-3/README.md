@@ -1,23 +1,23 @@
 # PROJECT-3. Обнаружение накрутки рейтинга отелей сайта Booking. EDA + Feature Engineering
 
 ## Оглавление
-[1. Описание проекта](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#описание-проекта)
+[1. Описание проекта](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#результаты)
+[5. Результаты](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#результаты)
 
-[6. Выводы](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#выводы)
+[6. Выводы](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#выводы)
 
 ### Описание проекта
 
 Дата-сайентист из компании Booking работает над решением проблемы накрутки рейтинга нечестными отелями. Для этого он работает над построением модели машинного обучения, предсказывающей рейтинг на основе имеющихся данных. Дата-сайентист должен добиться максимальной точности в предсказании модели, а для этого подготовить данные максимально тщательно.
 
-:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#оглавление)
 
 ### Какой кейс решаем?
 
@@ -42,7 +42,7 @@
 - также будем использовать кодирование и преобразование признаков, 
 - а после - отберём лучшие из них.
 
-:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#оглавление)
 
 ### Краткая информация о данных
 
@@ -68,7 +68,7 @@
 **lat** — географическая широта отеля;
 **lng** — географическая долгота отеля.
 
-:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#оглавление)
 
 ### Этапы работы над проектом
 
@@ -86,16 +86,16 @@
 **Преобразование признаков** Применим различные преобразования над признаками вроде нормализации, стандартизации.
 Отбор признаков. Используем анализ мультиколлинеарности как шаг отбора признаков для модели.
 
-:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#оглавление)
 
 ### Результаты
 
 В результате пробразования данных из датасета удалось добиться показателя качества модели MAPE в размере ~0.0924.
 
-:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#оглавление)
 
 ### Выводы
 
 Предобработка, разведочный анализ данных позволяют заметно улучшить качество работы модели машинного обучения по предсказанию рейтинга отеля.
 
-:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/blob/main/Project_3/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/irkovsky/sf_data_science/tree/main/EDA_Project-3/README.md#оглавление)
