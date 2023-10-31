@@ -1,0 +1,28 @@
+fireplace_mask,fireplace_type
+yes,^yes
+yes,fireplace
+yes,free standing
+1 frpl,room
+1 frpl,redecorated
+1 frpl,\brm\b
+1 frpl,familyrm
+1 frpl,\b1\b
+2 frpl,\b2\b
+2 frpl,\btwo\b
+2 plus frpl,[3-9]|[1-9]\d+
+no,not applicable
+no,\bfan\b
+no,\bair\b
+no,\bno\b
+no,\b0\b
+decorative,decorative
+decorative,electric
+gas,\bgas\b
+gas,propane
+wood,(?<!non\s)wood
+wood,firepit
+wood,\bpit\b
+unknown,closet
+unknown,unknown
+
+

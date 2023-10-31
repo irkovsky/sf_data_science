@@ -1,0 +1,20 @@
+heating_mask,heating_type,name
+air, air, (принудительная циркуляция воздуха)
+electric, electric, (электрическая система отопления)
+heat pump, heat pump, (тепловой насос)
+heat pump, pump
+gas, propane, (газ/пропан)
+gas, gas
+baseboard, baseboard
+baseboard, wall
+baseboard, window unit, (система с бордюрными радиаторами/настенными/оконными установками)
+radiant, radiant
+radiant, radiator, (радиаторная система/радиаторы)
+zoned, zoned
+zoned, multizone, (система с разделением на зоны/мультизональная система)
+furnace/stove/fireplace, furnace, (печь/плита/камин)
+furnace/stove/fireplace, stove
+furnace/stove/fireplace, fireplace
+water, water
+steam, steam, (система с горячей водой/паром)
+oil, oil, (система с использованием мазута)

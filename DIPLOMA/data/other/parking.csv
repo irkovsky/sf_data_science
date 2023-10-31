@@ -1,0 +1,21 @@
+parking_mask, parking_type
+no parking, none
+garage, opener
+garage, rv gate
+attached, attached
+detached, detached
+carport, carport
+carport, covered
+off street, off street
+on street, on street
+driveway, driveway
+driveway, drwvy
+slab, slab
+slab, concr
+oversized, oversized
+5 plus spaces, 5 plus spaces
+10 plus spaces, 10 plus spaces
+2 spaces, 2 spaces
+1 spaces, 1 spaces
+4 spaces, 4 spaces
+3 spaces, 3 spaces  
